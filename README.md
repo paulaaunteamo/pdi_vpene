@@ -1,23 +1,7 @@
 pdi_vpene
 =========
-============================================
 
-  PPPPPPPPP    DDDDDDDD     IIIIIIIIIIIII
-  P        P   D       D          I
-  P         P  D        D         I
-  P         P  D         D        I
-  P        P   D         D        I
-  PPPPPPPPP    D         D        I
-  P            D         D        I
-  P            D         D        I
-  P            D        D         I
-  P            DDDDDDDDD    IIIIIIIIIIIII
-
-      aula           ownload       nterface     
-
-Aún te amo ;_;
-
-============================================
+PaulaDownloadInterface (PDI)
 Versión 0.1.0.0 
 
 Información:
