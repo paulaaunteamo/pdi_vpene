@@ -11,10 +11,15 @@ Dumper que descarga imágenes de un hilo de tu blog buena onda.
 ¿Cómo usar?
 ================
 1) Ingresas la URL del Hilo a descargar
+
 2) Click en Descargar
+
 3) Las imágenes se descargan en la carpeta donde "pdi_v0100.exe" se encuentre
+
 4) Esperas que se termine el proceso
+
 5) ?????
+
 6) Ganancia
 
 Lista de futuras opciones (To-DO, para los pulents)
