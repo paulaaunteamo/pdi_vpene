@@ -1,7 +1,6 @@
-pdi_vpene
+PaulaDownloadInterface (PDI)
 =========
 
-PaulaDownloadInterface (PDI)
 Versión 0.1.0.0 
 
 Información:
